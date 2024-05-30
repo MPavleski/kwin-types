@@ -1,6 +1,6 @@
 {
     "name": "kwin-types",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Type declarations for KWin's scripting API",
     "types": "out/kwin.d.ts",
     "scripts": {

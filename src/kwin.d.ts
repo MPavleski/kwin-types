@@ -1138,7 +1138,8 @@ declare namespace KWin {
 
     class QtScriptWorkspaceWrapper extends WorkspaceWrapper {
         //#region Functions
-        clientList(): AbstractClient[]
+        windowList(): AbstractClient[]
+        activeWindow: AbstractClient
         //#endregion
     }
 
